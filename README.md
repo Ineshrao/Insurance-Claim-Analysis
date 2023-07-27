@@ -1,6 +1,6 @@
 # Insurance Claim Analysis
 
-This project aims to develop a predictive model for estimating insurance claim amounts based on a dataset containing various features such as age, gender, smoker status, and medical history. The goal is to provide insurance companies with a reliable tool to enhance their claim estimation process and make informed decisions.
+This project aims to provide the necessary insights to develop a predictive model for estimating insurance claim amounts based on a dataset containing various features such as age, gender, smoker status, and medical history. The goal is to provide insurance companies with a reliable tool to enhance their claim estimation process and make informed decisions.
 
 ## Table of Contents
 - [Introduction](#introduction)
